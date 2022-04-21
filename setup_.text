@@ -1,0 +1,7 @@
+mkdir - to open new project folder
+code . to open vs code
+npm init -y for initialization.
+npm express cors mongodb  for node express, cors and mongo db
+npm install -g nodemon  for use globally.
+
+mongodb app create from web.

@@ -1,7 +1,6 @@
 {
   "name": "mongo-server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -17,5 +16,14 @@
     "install": "^0.13.0",
     "mongodb": "^4.5.0",
     "nodemon": "^2.0.15"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tauhid495/mongoone.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tauhid495/mongoone/issues"
+  },
+  "homepage": "https://github.com/tauhid495/mongoone#readme",
+  "description": ""
 }
